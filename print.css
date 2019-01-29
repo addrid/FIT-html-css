@@ -1,0 +1,44 @@
+/* ----------------page style----------------- */
+@charset "utf-8";
+* 
+{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Verdana", Geneva, sans-serif;sans-serif;
+	text-align: center;
+}
+
+.container
+{
+	text-align: left;
+	margin: 0 auto;
+}
+.header
+{
+	display:none;	
+}
+.nav
+{
+	display:none;
+}
+.top
+{
+	display:none;
+}
+.content
+{
+	border-right:none;
+	width:100%;
+}
+.news
+{
+	display:none;
+}
+
+.footer
+{
+	display:none;
+		
+}
